@@ -1,0 +1,31 @@
+body {
+    color: #fa8e41;
+    font-family: Tahoma, Verdana;
+    font-size: 22px;
+    background-image: url(blackBackground.jpeg);
+    background-size: cover;
+    width: 50%;
+    margin:auto;   
+}
+
+img{
+    width: 65%;
+    border: 5px dotted orange;
+    border-radius: 30%;
+    display: block;
+    margin: auto;
+}
+
+h1{
+    border-bottom: 5px solid orange;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+.paragraf-1 {
+    text-align: center;
+}
+
+.turuncu{
+    color:firebrick
+}
